@@ -22,7 +22,7 @@ body::after {
 audio,
 .love_you {
     position: absolute;
-    left: 60%;
+    left: 50%;
     top: 1.5rem;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
